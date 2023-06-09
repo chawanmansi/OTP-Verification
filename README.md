@@ -1,5 +1,4 @@
-# OTP-Verification
-OTP-Verification in python
+
 # OTP-Verification
 OTP-Verification in python
 Title: OTP Verification in Python
